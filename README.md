@@ -1,10 +1,13 @@
-<h1 align="center"> Fusion-ion </h1> <br>
+<h1 align="center"> <img alt="GitPoint" title="Fusion" src="https://user-images.githubusercontent.com/74889517/175575477-4e58d76c-0435-4b70-9859-3ac629e309ac.png" width="190" heigh="25"> </h1> <br>
 <p align="center">
   <a href="https://gitpoint.co/">
-    <img alt="GitPoint" title="GitPoint" src="https://user-images.githubusercontent.com/74889517/175575477-4e58d76c-0435-4b70-9859-3ac629e309ac.png" width="190">
+    <img alt="GitPoint" title="GitPoint" src="https://user-images.githubusercontent.com/74889517/175617827-24a21acd-9353-4131-bbf7-b633610f4609.png" width="290">
   </a>
 
 [](https://user-images.githubusercontent.com/74889517/175575477-4e58d76c-0435-4b70-9859-3ac629e309ac.png)
+  
+ 
+[](https://user-images.githubusercontent.com/74889517/175617827-24a21acd-9353-4131-bbf7-b633610f4609.png)
 
 
 <p align="center">
