@@ -11,7 +11,7 @@
 
 
 <p align="center">
-  Fusion in your pocket. Built completely with Swuft.
+  Fusion in your pocket. Built completely with Swift.
 </p>
 
 <p align="center">
@@ -53,7 +53,7 @@ View repository and user information, control your notifications and even manage
 **Available for iOS.**
 
 <p align="center">
-  <img src = "http://i.imgur.com/HowF6aM.png" width=350>
+  <img src = "https://user-images.githubusercontent.com/74889517/182229445-635c61de-1e08-43b6-ad5f-c41b76229971.png">
 </p>
 
 ## Features
