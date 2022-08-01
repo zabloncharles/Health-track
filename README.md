@@ -1,13 +1,18 @@
-<h1 align="center"> <img alt="GitPoint" title="Fusion" src="https://user-images.githubusercontent.com/74889517/175575477-4e58d76c-0435-4b70-9859-3ac629e309ac.png" width="190" heigh="25"> </h1> <br>
+<h1 >
+  Fusion
+
+  </h1>
+  
+<!--
+<h1 align="center"> <img alt="GitPoint" title="Fusion" src="https://user-images.githubusercontent.com/74889517/175575477-4e58d76c-0435-4b70-9859-3ac629e309ac.png" width="190" heigh="5"> </h1> <br>
+--!>
+
+
 <p align="center">
   <a href="https://gitpoint.co/">
     <img alt="GitPoint" title="GitPoint" src="https://user-images.githubusercontent.com/74889517/175617827-24a21acd-9353-4131-bbf7-b633610f4609.png" width="290">
   </a>
 
-[](https://user-images.githubusercontent.com/74889517/175575477-4e58d76c-0435-4b70-9859-3ac629e309ac.png)
-  
- 
-[](https://user-images.githubusercontent.com/74889517/175617827-24a21acd-9353-4131-bbf7-b633610f4609.png)
 
 
 <p align="center">
@@ -19,10 +24,12 @@
     <img alt="Download on the App Store" title="App Store" src="http://i.imgur.com/0n2zqHD.png" width="140">
   </a>
 
+<!--
   <a href="https://play.google.com/store/apps/details?id=com.gitpoint">
     <img alt="Get it on Google Play" title="Google Play" src="http://i.imgur.com/mtGRPuM.png" width="140">
   </a>
 </p>
+--!>
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
@@ -53,7 +60,7 @@ View repository and user information, control your notifications and even manage
 **Available for iOS.**
 
 <p align="center">
-  <img src = "https://user-images.githubusercontent.com/74889517/182229445-635c61de-1e08-43b6-ad5f-c41b76229971.png">
+  <img src = "https://user-images.githubusercontent.com/74889517/182246804-279dc992-6078-49f3-a4a7-775fbb677c00.png">
 </p>
 
 ## Features
@@ -66,16 +73,18 @@ A few of the things you can do with Fusion:
 * Ovulation calculator
 * Pregnancy calculator
 * Reminders
-* Graphs
 * Education and information 
 
 <p align="center">
-  <img src = "http://i.imgur.com/IkSnFRL.png" width=700>
+  <img src = "https://user-images.githubusercontent.com/74889517/182240184-175f842b-08bf-448a-bb24-60e7589b37c0.png" >
 </p>
 
 <p align="center">
-  <img src = "http://i.imgur.com/0iorG20.png" width=700>
+  <img src = "https://user-images.githubusercontent.com/74889517/182246135-efb33494-dd50-49c6-a9f1-84ef322ce95c.png" >
 </p>
+
+
+
 
 ## Feedback
 
