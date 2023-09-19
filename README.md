@@ -1,5 +1,5 @@
 <h1 >
-  Fusion
+  Fusion-ion : "Your Comprehensive Health Companion"
 
   </h1>
   
@@ -55,7 +55,9 @@
 [![Commitizen friendly](https://img.shields.io/badge/commitizen-friendly-brightgreen.svg?style=flat-square)](http://commitizen.github.io/cz-cli/)
 [![Gitter chat](https://img.shields.io/badge/chat-on_gitter-008080.svg?style=flat-square)](https://gitter.im/git-point)
 
-View repository and user information, control your notifications and even manage your issues and pull requests. Built with React Native, GitPoint is one of the most feature-rich unofficial GitHub clients that is 100% free.
+Your Comprehensive Health Companion
+
+Fusion-Ion is a powerful and user-friendly mobile application designed to empower individuals by providing essential tools and information for managing their reproductive health. With a suite of innovative features, Fusion-Ion is more than just a period tracker; it's a comprehensive health companion.
 
 **Available for iOS.**
 
